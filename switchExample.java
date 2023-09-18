@@ -18,7 +18,7 @@ public class switchExample {
                 System.out.println("You got an C!");
                 break;
             default:
-                System.out.println("You did not pass");
+                System.out.println("You did not provide a correct input.");
             }
         }
     }
